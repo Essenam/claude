@@ -1,0 +1,7 @@
+{
+  "name": "ai-product-studio",
+  "version": "1.0.0",
+  "description": "An autonomous, multidisciplinary product team in a plugin. Four skills (product-architect, experience-director, product-builder, product-reviewer) and a /studio start command that turn ideas, requirements, screenshots, sites, prototypes, or codebases into sophisticated, working digital products.",
+  "author": { "name": "Essenam" },
+  "keywords": ["product", "design", "full-stack", "prototype", "mvp", "ux", "saas", "marketplace", "dashboard"]
+}

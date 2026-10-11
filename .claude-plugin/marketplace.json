@@ -1,0 +1,18 @@
+{
+  "name": "essenam-plugins",
+  "owner": { "name": "Essenam" },
+  "metadata": {
+    "description": "Personal Claude Code plugins.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "ai-product-studio",
+      "source": "./plugins/ai-product-studio",
+      "description": "Autonomous product creation studio: turns an idea, PRD, screenshots, site, prototype, or codebase into a cinematic, functional, production-aware digital product.",
+      "version": "1.0.0",
+      "category": "productivity",
+      "keywords": ["product", "design", "full-stack", "prototype", "mvp", "ux", "saas"]
+    }
+  ]
+}
